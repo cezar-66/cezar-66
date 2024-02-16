@@ -2,8 +2,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cezar-mar%C3%A7al/)](https://www.linkedin.com/in/cezar-mar%C3%A7al/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/cezarmarcal1/)](https://www.instagram.com/cezarmarcal1/)
 
-<img align="right" alt="Imagem de código" src="./code.jpg" style="border-radius: 50%;" width="200px" height="200px;"/>
-
 </br>
 ## Sobre mim
 
