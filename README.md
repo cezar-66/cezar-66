@@ -1,19 +1,52 @@
-# Bem-vindo ao meu GitHub! 👋
+<h1 align="left">Olá 👋 Como vai?</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cezar-mar%C3%A7al/)](https://www.linkedin.com/in/cezar-mar%C3%A7al/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/cezarmarcal1/)](https://www.instagram.com/cezarmarcal1/)
+###
 
-</br>
-# Sobre mim
+<p align="left">Bem vindo ao meu GitHub, pode me chamar de Cezar ou Marçal se prefir. Atualmente trabalho como engenheiro de software na 
+  <a href="https://assinatura.azulseguros.com.br/">Azul Seguros</a> e sou graduado em análise e desenvolvimento de sistemas pela
+  <a href="https://unidades.afya.com.br/unidep">Unidep.</a>
+</p>
 
-Olá! Eu sou Cezar Marçal, um Engenheiro de Software apaixonado por desenvolvimento backend, atualmente trabalhando na [Azul Seguros](https://assinatura.azulseguros.com.br/). Sou graduado em Análise e Desenvolvimento de Sistemas pela [UNIDEP](https://unidades.afya.com.br/unidep) e estou constantemente aprimorando minhas habilidades.
+###
 
-Meu conjunto de habilidades inclui Java, Spring Boot, AWS, Jenkins, Angular, Typescript, JavaScript, HTML e CSS.
+<h2 align="left">Sobre Mim</h2>
 
-- 💼 Trabalhando como Engenheiro de Software na [Azul Seguros](https://assinatura.azulseguros.com.br/)
-- 🎓 Graduado em Análise e Desenvolvimento de Sistemas pela [UNIDEP](https://unidades.afya.com.br/unidep)
-- 🚀 Apaixonado por desenvolvimento backend
-- 💡 Sempre em busca de novos desafios
+###
 
-## Estatísticas
+<p align="left">👩‍💻 Engenheiro de software <br>📚 Graduado em Análise e Desenvolvimento de Sistemas<br>🚀 Apaixonado por desenvolvimento Backend<br>💡 Gosto de um bom desafio</p>
 
-[![Principais linguagens de programação de Marçal](https://github-readme-stats.vercel.app/api/top-langs/?username=cezar-66&theme=blue-white&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+###
+
+<h2 align="left">Stacks</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bamboo/bamboo-original.svg" height="40" alt="bamboo logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="jenkins logo"  />
+</div>
+
+###
