@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Bem vindo ao meu GitHub, pode me chamar de Cezar ou Marçal se prefir. Atualmente trabalho como engenheiro de software na 
+<p align="left">Bem vindo ao meu GitHub, Meu nome é Cezar Marçal. Atualmente trabalho como engenheiro de software na 
   <a href="https://assinatura.azulseguros.com.br/">Azul Seguros</a> e sou graduado em análise e desenvolvimento de sistemas pela
   <a href="https://unidades.afya.com.br/unidep">Unidep.</a>
 </p>
